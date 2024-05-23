@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rokinon Cine DSX Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/71QV+zAJdlL._AC_SL1500_.jpg",
+    "size": "85mm T3.8 Lens",
+    "info": "Optically constructed of 9 elements in 7 groups, Aperture range of T1.5 - T34.",
+    "price": "28101.23"
+  },
+  {
+    "name": "Rokinon Cinema Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/71MkYbzhvdL._AC_SX679_.jpg",
+    "size": "24mm T1.5 Lens",
+    "info": "Optically constructed of 13 elements in 12 groups, Aperture range of T1.5 - T24.",
+    "price": "31566.33"
+  },
+  {
+    "name": "Rokinon Cinema Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/71zSxhjFOPL._AC_SX679_.jpg",
+    "size": "50mm T1.5 Lens",
+    "info": "Optically constructed of 9 elements in 6 groups, Aperture range of T1.5 - T30.",
+    "price": "36784.22"
+  },
+  {
+    "name": "Rokinon Cinema Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/71+1G+XvTPL._AC_SX679_.jpg",
+    "size": "24mm T1.9 Lens",
+    "info": "8K & Unified Color Tone: Cine AF lens designed for high-resolution cameras up to 8K, offering fast aperture and precise bokeh. The unified color tone reduces the post-production time.",
+    "price": "44866.53"
+  },
+  {
+    "name": "Rokinon Cinema Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/81XvCnf8GrL._AC_SX679_.jpg",
+    "size": "35mm T1.9 Lens",
+    "info": "8K & Unified Color Tone: Cine AF lens designed for high-resolution cameras up to 8K, offering fast aperture and precise bokeh. The unified color tone reduces the post-production time.",
+    "price": "41576.53"
+  },
+  {
+    "name": "Sony Telephoto Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/719UUBYHOdL._AC_SX679_.jpg",
+    "size": "200mm-600mm Lens",
+    "info": "Outstanding g lens resolution throughout the Zoom range, 5x ED (extra-low dispersion) glass elements Reduces flare & ghosting.",
+    "price": "149844.02"
+  },
+  {
+    "name": "Sony FE GM Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/814XoXmKh4L._AC_SX679_.jpg",
+    "size": "50mm F1.4 Lens",
+    "info": "Breathtaking G MasterTM image quality right out to the edges of the frame, Innovative optics and a large F1.4 aperture deliver magnificent bokeh.",
+    "price": "108110.61"
+  },
+  {
+    "name": "Sony FE F4 Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/6125bS+t-WL._AC_SX679_.jpg",
+    "size": "18mm-105mm Lens",
+    "info": "High performance E mount lens with excellent contrast; Minimum Aperture (F): 22.",
+    "price": "45643.00"
+  },
+  {
+    "name": "Sony Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/71Rw46AQEHL._AC_SX679_.jpg",
+    "size": "16mm-35mm Lens",
+    "info": "The world’s smallest, lightest1 full-frame F2.8 wide-angle zoom, Extraordinary resolution and bokeh throughout the zoom range.",
+    "price": "191400.76"
+  },
+  {
+    "name": "Sony Lens",
+    "imageURL": "https://m.media-amazon.com/images/I/81g5xkn2zYL._AC_SX679_.jpg",
+    "size": "20mm-70mm f4 Lens",
+    "info": "With an unprecedented ultra-wide 20 mm to short-telephoto 70 mm zoom range, this versatile lens is an excellent choice for a wide range of movie and still subjects.",
+    "price": "91450.39"
+  }
+]

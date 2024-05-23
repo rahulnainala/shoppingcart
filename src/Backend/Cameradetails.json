@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sony A6100",
+    "imageURL": "https://m.media-amazon.com/images/I/81p8fBWu5QL._AC_SX679_.jpg",
+    "info": "24 2MP APS-C Exmor sensor w/ front end LSI and ISO up to 51 200, Wide 425-phase/425-contrast detection AF points over 84% of sensor",
+    "price": "53563.63"
+  },
+  {
+    "name": "Sony A7IV",
+    "imageURL": "https://m.media-amazon.com/images/I/71vpzW1nQJL._AC_SX679_.jpg",
+    "info": "33MP full-frame Exmor R back-illuminated CMOS sensor, 8x more powerful, next generation BIONZ XR image processing engine",
+    "price": "208051.30"
+  },
+  {
+    "name": "Sony A6100",
+    "imageURL": "https://m.media-amazon.com/images/I/71TwEhdEruL._AC_SX679_.jpg",
+    "info": "24.2MP APS-C Exmor sensor w/ front end LSI and ISO up to 51,200, Up to 11fps continuous shooting5 at 24.2MP RAW w/ AF/AE tracking",
+    "price": "49805.72"
+  },
+  {
+    "name": "Sony A6400",
+    "imageURL": "https://m.media-amazon.com/images/I/71G1mb4c8bL._AC_SX679_.jpg",
+    "info": "Enhanced subject capture: wide 425 Phase/ 425 contrast detection points over 84% of the sensor, Fast and accurate: up to 11Fps continuous shooting at 24. 2MP raw with crisp, clear natural colors",
+    "price": "62298.79"
+  },
+  {
+    "name": "Sony FX30 Super35",
+    "imageURL": "https://m.media-amazon.com/images/I/91JwqqrK5mL._AC_SX679_.jpg",
+    "info": "20.1 MP Exmor R APS-C (Super 35mm format) image sensor with wide dynamic range, Dual Base ISO and a 14+ stop range for wide latitude and low-noise images",
+    "price": "163242.81"
+  },
+  {
+    "name": "Sony A7RV",
+    "imageURL": "https://m.media-amazon.com/images/I/81yIgHbPO1L._AC_SX679_.jpg",
+    "info": "61.0 MP full-frame back-illuminated Exmor R CMOS sensor, Outstanding filmmaking with 8K 24p/25p and 4K 60p (50p)",
+    "price": "304830.97"
+  },
+  {
+    "name": "Fujifilm X-T30",
+    "imageURL": "https://m.media-amazon.com/images/I/61L6NTAUM+L._AC_SX679_.jpg",
+    "info": "Assured Image Quality X-T30 II uses Fujifilm’s fourth-generation X-Trans CMOS 4 back-illuminated sensor, designed to minimize noise, while also extending sensitivity to ISO 160. ",
+    "price": "83203.86"
+  },
+  {
+    "name": "Fujifilm X-T5",
+    "imageURL": "https://m.media-amazon.com/images/I/71YhpUiYjrL._AC_SX679_.jpg",
+    "info": "Offering the ultimate image quality, X-T5 features the class-leading, 40.2-megapixel X-Trans 5 HR CMOS sensor in a compact, lightweight body that maximizes functionality and portability.",
+    "price": "159585.68"
+  },
+  {
+    "name": "Fujifilm XH2",
+    "imageURL": "https://m.media-amazon.com/images/I/61GzZBp2BwL._AC_SX679_.jpg",
+    "info": "World’s first 40-megapixel APS-C sensor X-H2 blends the compact and lightweight versatility of APS-C mirrorless cameras.",
+    "price": "166574.30"
+  },
+  {
+    "name": "Sigma FP L",
+    "imageURL": "https://m.media-amazon.com/images/I/61SU+b6xC9S._AC_SX679_.jpg",
+    "info": "Full Frame mirrorless 61 MP image sensor, Worlds lightest and smallest pocketable full frame camera",
+    "price": "208134.59"
+  },
+  {
+    "name": "Sigma FP",
+    "imageURL": "https://m.media-amazon.com/images/I/61HzcWnSvEL._AC_SX679_.jpg",
+    "info": "Pocketable full-frame│Impressive portability and power, World's smallest and lightest full-frame camera",
+    "price": "156579.84"
+  },
+  {
+    "name": "Canon EOS R6 Mark II",
+    "imageURL": "https://m.media-amazon.com/images/I/61s5kI0U4cL._AC_SX679_.jpg",
+    "info": "FULL-FRAME CMOS SENSOR: 24.2 effective megapixels (approx.) lets you capture sharp, detailed images even in low-light conditions.",
+    "price": "166491.01"
+  },
+  {
+    "name": "Blackmagic 6k Pro",
+    "imageURL": "https://m.media-amazon.com/images/I/619esbAq-oS._AC_SX679_.jpg",
+    "info": "Amazing Camera which offers 6k Quality with something more.",
+    "price": "211132.93"
+  },
+  {
+    "name": "Blackmagic 6k",
+    "imageURL": "https://m.media-amazon.com/images/I/61pgqBBF2RL._AC_SX679_.jpg",
+    "info": "Amazing Camera which offers 6k Quality.",
+    "price": "133176.15"
+  },
+  {
+    "name": "Canon E0S R7",
+    "imageURL": "https://m.media-amazon.com/images/I/6166GKdCA8L._AC_SX679_.jpg",
+    "info": "CMOS SENSOR: Canon’s 32.5 mp APS-C CMOS sensor ensures images appear crisp,DIGIC X IMAGE PROCESSOR: Enhances performance for sharp photos and ultra-high definition videos ",
+    "price": "116518.72"
+  }
+]
