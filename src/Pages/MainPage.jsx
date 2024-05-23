@@ -16,7 +16,7 @@ function MainPage() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowCards(true);
-    }, 2000);
+    }, 3000);
 
     return () => clearTimeout(timer);
   }, []);
