@@ -18,7 +18,7 @@ function CameraPage() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setShowCards(true);
-    }, 3000);
+    }, 5000);
 
     return () => clearTimeout(timer);
   }, []);

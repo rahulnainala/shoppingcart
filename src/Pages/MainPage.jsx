@@ -12,6 +12,7 @@ function Shimmer() {
 
 function MainPage() {
   const [showCards, setShowCards] = useState(false);
+  const [imagesLoaded, setImagesLoaded] = useState(0);
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -21,6 +22,9 @@ function MainPage() {
     return () => clearTimeout(timer);
   }, []);
 
+  const handleImageLoad = () => {
+    setImagesLoaded(imagesLoaded + 1);
+  };
   const cameraImgSrc =
     "https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
   const lensImgSrc =
@@ -35,12 +39,19 @@ function MainPage() {
             items={"Camera"}
             imgSrc={cameraImgSrc}
             details={"From sony to Fujifilm to RED all the cameras"}
+            onLoad={handleImageLoad}
           />
           <ItemsCard
             items={"Lens"}
             imgSrc={lensImgSrc}
             details={"From Cinematic to Photographic all the Lenses"}
+            onLoad={handleImageLoad}
           />
+        </div>
+      )}
+      {imagesLoaded === 2 && showCards && (
+        <div>
+          <p>Images Loaded Successfully!</p>
         </div>
       )}
     </div>
